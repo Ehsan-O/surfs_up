@@ -92,7 +92,7 @@ By comparing Fig. 3 with Fig. 4:
 
 &nbsp;
 
-The Juoyter notebook file for this analysis can be found in: [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
+The Jupyter notebook file for this analysis can be found in: [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
 
 ## **summary**  
 
