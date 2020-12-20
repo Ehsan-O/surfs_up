@@ -92,12 +92,12 @@ By comparing Fig. 3 with Fig. 4:
 
 &nbsp;
 
-The Juoyter notebook file for this analysis can be fined in: [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
+The Juoyter notebook file for this analysis can be found in: [SurfsUp_Challenge.ipynb](SurfsUp_Challenge.ipynb)
 
 ## **summary**  
 
 - According to the analysis above and its results it could be concluded that there has been no big change in weather condition through the year in the past years regarding the temperature.
-- We are still not sure about the amount of precipitation. To compare this parameter in June and December, we wrote two more queries to retrieve the precipitation recordings in these two months and compare the histograms of the recordings in each month between 2010 and 2017. Below you can see the code to get the precipitation recordings in June and december and add them to two dataframes ("[Additionals_Queries.ipynb](Additionals_Queries.ipynb)" containes the code for this additional part):  
+- We are still not sure about the amount of precipitation. To compare this parameter in June and December, we wrote two more queries to retrieve the precipitation recordings in these two months and compare the histograms of the recordings in each month between 2010 and 2017. Below you can see the code to get the precipitation recordings in June and december and add them to two dataframes:  
 
     ```py
     prec_june = session.query(Measurement.prcp).filter(extract('month', Measurement.date) == 6).all()
