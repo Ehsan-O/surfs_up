@@ -126,5 +126,5 @@ The Jupyter notebook file for this analysis can be found in: [SurfsUp_Challenge.
 </center>
 &nbsp;
 
-- Comparing Fig. 5 and Fig. 7 demonstrates that there is no significant change in the amount of precipitation in June and december.
+- Comparing Fig. 5 and Fig. 6 demonstrates that there is no significant change in the amount of precipitation in June and december.
 - Generally it seems that there has been no serious climate change during the year in the past years, as we've almost had the same weather condition in a cold month of the year that we've had in a warm month, hopefully it will be the same for the years to come. We can tell our friend that it is safe to invest in this place and open his surf board and ice cream business as it can be an all year round business .
